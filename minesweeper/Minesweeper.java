@@ -5,7 +5,7 @@ class Minesweeper {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to Minesweeper!\nLet's play!!\n");
+        System.out.println("Welcome to  Minesweeper!\nLet's play!!\n");
         System.out.println("Remember: - for safe, * for bomb\n");
 
         // Get input for n and m
