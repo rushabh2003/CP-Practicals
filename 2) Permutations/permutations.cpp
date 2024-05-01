@@ -29,8 +29,7 @@ int main()
 
     cout << "Enter nums: ";
 
-    for (int i = 0; i < n; i++)
-    {
+    for (int i = 0; i < n; i++) {
         cin >> nums[i];
     }
 

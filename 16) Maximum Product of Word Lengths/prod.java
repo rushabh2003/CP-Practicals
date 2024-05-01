@@ -28,6 +28,7 @@ public class Main {
         String input = sc.nextLine();
         String[] words = input.split(" ");
         System.out.println(maxProduct(words));
+
         sc.close();
     }
 }

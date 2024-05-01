@@ -1,4 +1,3 @@
-
 n = int(input("Enter n: "))
 matrix = []
 

@@ -1,6 +1,4 @@
-#include <iostream>
-#include <string>
-#include <stack>
+#include <bits/stdc++.h>
 using namespace std;
 
 string removeKDigits(string num, int k) {
